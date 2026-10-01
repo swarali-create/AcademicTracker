@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App theme MUST be MaterialComponents -->
+    <style name="Theme.AttendenceMarkingApp"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#8E24AA</item>
+        <item name="colorPrimaryVariant">#5C007A</item>
+        <item name="colorSecondary">#CE93D8</item>
+
+    </style>
+
+</resources>

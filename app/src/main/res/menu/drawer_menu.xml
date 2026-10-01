@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dashboard" android:id="@+id/nav_dashboard"/>
+
+    <item android:title="Profile" android:id="@+id/nav_profile"/>
+
+    <item android:title="Attendance History" android:id="@+id/nav_attendance_history"/>
+
+
+    <item android:title="Salary Slip" android:id="@+id/nav_salary"/>
+
+
+
+    <item android:title="Announcement" android:id="@+id/nav_location"/>
+
+
+    <item android:title="Settings" android:id="@+id/nav_settings"/>
+
+    <item android:title="Logout" android:id="@+id/nav_logout"/>
+</menu>
